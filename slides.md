@@ -309,6 +309,18 @@ I didn't grow up thinking I'd be a software engineer.
 
 <v-click>
 
+The tools and languages we use change **fast**. It's not about learning one programming language — it's about understanding the **underlying principles** and being able to adapt.
+
+</v-click>
+
+<v-click>
+
+We're also doing things that have **never been done before**. There was no manual on how to build Netflix. No guide on how to make Roblox. You have to figure it out as you go.
+
+</v-click>
+
+<v-click>
+
 <div class="callout mt-4">
 
 What matters most isn't that you already know how to code. What matters is:
@@ -323,6 +335,7 @@ What matters most isn't that you already know how to code. What matters is:
 - You're **persistent** — you don't give up when something is hard
 - You like **solving puzzles** — that's basically what coding is
 - You can **work with other people** — software is a team effort
+- You can **adapt and learn** — because the technology is always changing
 
 </v-clicks>
 
