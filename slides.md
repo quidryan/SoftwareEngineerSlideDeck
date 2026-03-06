@@ -162,6 +162,16 @@ Netflix, Roblox, YouTube, Minecraft — all built by **hundreds or thousands** o
 
 ---
 
+# What Collaboration Looks Like
+
+Here's real activity on a project — people contributing code, reviewing each other's work, and building together:
+
+<video controls class="mt-4" style="max-height: 380px; width: 100%; border-radius: 8px;">
+  <source src="/ActivityOnAProject.mp4" type="video/mp4">
+</video>
+
+---
+
 # What Does Code Look Like?
 
 Here's a tiny example — this is real code that could run on a website:
