@@ -14,12 +14,6 @@ info: |
 
 Solving problems with technology — and having fun doing it
 
-<div class="muted mt-8">
-
-Press **space** or **arrow keys** to navigate
-
-</div>
-
 ---
 transition: fade
 ---
@@ -31,26 +25,19 @@ transition: fade
 
 ### My Career
 
-<v-clicks>
-
 - **10 years at Netflix** — the streaming service you probably use every day
+  - Building the code, Downloads, Helping people stay logged in
 - **Almost 4 years at Roblox** — yes, _that_ Roblox
-- Built systems used by **hundreds of millions** of people
-
-</v-clicks>
+- Designed systems used by **hundreds of millions** of people
 
 </div>
 <div>
 
 ### What I Do
 
-<v-clicks>
-
 - I'm a **Software Engineer**
 - I solve problems using **technology**
 - I write **code** — instructions that tell computers what to do
-
-</v-clicks>
 
 </div>
 </div>
@@ -79,16 +66,12 @@ That's it. That's the job. We figure out problems and build solutions with compu
 
 The problems can be **anything**:
 
-</v-click>
-
-<v-clicks>
-
 - How do we stream a movie to 200 million people at the same time?
 - How do we let millions of players build and play games together in Roblox?
 - How do we safely control a nuclear power plant?
 - How do we build a website to share an idea with the world?
 
-</v-clicks>
+</v-click>
 
 ---
 layout: section
@@ -246,7 +229,7 @@ layout: section
 
 # Why Does School Matter?
 
----
+<!--
 
 # Subjects That Actually Help
 
@@ -255,32 +238,24 @@ layout: section
 
 ### Directly Useful
 
-<v-clicks>
-
 - **Math** — logic, problem-solving, algebra (yes, really)
 - **Science** — thinking like a scientist, testing ideas
 - **English / Writing** — we write _a lot_ (emails, docs, code comments)
 - **Computer Science** — if your school offers it, take it
-
-</v-clicks>
 
 </div>
 <div>
 
 ### Surprisingly Useful
 
-<v-clicks>
-
 - **Art** — design matters, user interfaces need to look good
 - **Music** — patterns, structure, and creative thinking
 - **Foreign Languages** — tech is global, teams span the world
 - **P.E.** — seriously, sitting all day is rough. Stay active.
 
-</v-clicks>
-
 </div>
 </div>
-
+-->
 ---
 
 # Skills From School That I Use Every Day
@@ -342,10 +317,8 @@ What matters most isn't that you already know how to code. What matters is:
 ---
 layout: section
 ---
-
+<!--
 # The Fun Stuff
-
----
 
 # Why I Love This Job
 
@@ -360,7 +333,7 @@ layout: section
 
 </v-clicks>
 
----
+-->
 
 # Software Engineers Build the World Around You
 
@@ -433,7 +406,7 @@ Ask about Netflix, Roblox, coding, what school was like for me, or anything else
 </div>
 
 ---
-
+<!--
 # Thank You!
 
 <div class="columns mt-4">
@@ -465,3 +438,4 @@ Ask about Netflix, Roblox, coding, what school was like for me, or anything else
 
 </div>
 </div>
+-->
